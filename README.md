@@ -29,9 +29,9 @@ Veja alguns projetos em que já trabalhei:
 * **Predição de ações:**
 
 ### Dados Científicos:
-* ** Criação e Visualização de redes de co-autoria:**
-* ** Predição de redes de co-autoria:**
-* ** Clusterização para formação de grupos de pesquisa:**
+* **Criação e Visualização de redes de co-autoria:**
+* **Predição de redes de co-autoria:**
+* **Clusterização para formação de grupos de pesquisa:**
 
 ## Veja algumas das minhas Publicações:
 * **Financial Times Series Forecasting of Clustered Stocks: ** https://bit.ly/2SHRG9P
