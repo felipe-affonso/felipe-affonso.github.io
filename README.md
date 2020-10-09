@@ -5,7 +5,7 @@
 </p>
 
 # Felipe Affonso
-<sub>*Mestrando em Modelagem Matemática e Computacional no Centro Federal de Educação Tecnológica de Minas Gerais</sub>
+<sub>Mestrando em Modelagem Matemática e Computacional no Centro Federal de Educação Tecnológica de Minas Gerais</sub>
 
 Computer Engineer at the State University of Minas Gerais, with a period at the University of Miami (USA). Currently attending a Masters in Mathematical and Computational Modeling at the Federal Center of Technological Education of Minas Gerais. Has experience in the areas of Data Mining and Artificial Intelligence. 
 
@@ -34,7 +34,7 @@ Veja alguns projetos em que já trabalhei:
 * **Clusterização para formação de grupos de pesquisa:**
 
 ## Veja algumas das minhas Publicações:
-* **Financial Times Series Forecasting of Clustered Stocks: ** https://bit.ly/2SHRG9P
+* **Financial Times Series Forecasting of Clustered Stocks:** https://bit.ly/2SHRG9P
 * **A Strategy for Co-authorship Recommendation:** https://bit.ly/34AhmLe
 
 
